@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE Philippines [
+
+    <!ELEMENT philippines (tourist_spots)>
+    <!ELEMENT tourist_spots (Boracay, Palawan, Bohol, Banaue_Rice_Terraces, Intramuros, Vigan, Mt_Mayon, Tagaytay, Mt_Pulag, Puerto_Galera, Iloilo, Bataan, videos, about, contact)>
+
+    <!ELEMENT Boracay (#PCDATA)>
+    <!ELEMENT Palawan (#PCDATA)>
+    <!ELEMENT Bohol (#PCDATA)>
+    <!ELEMENT Banaue_Rice_Terraces (#PCDATA)>
+    <!ELEMENT Intramuros (#PCDATA)>
+    <!ELEMENT Vigan (#PCDATA)>
+    <!ELEMENT Mt_Mayon (#PCDATA)>
+    <!ELEMENT Tagaytay (#PCDATA)>
+    <!ELEMENT Mt_Pulag (#PCDATA)>
+    <!ELEMENT Puerto_Galera (#PCDATA)>
+    <!ELEMENT Iloilo (#PCDATA)>
+    <!ELEMENT Bataan (#PCDATA)>
+    <!ELEMENT videos (#PCDATA)>
+    <!ELEMENT about (#PCDATA)>
+    <!ELEMENT contact (#PCDATA)>
+
+    <!ATTLIST tourist_spots row CDATA #REQUIRED>
+    <!ATTLIST information_website row CDATA #REQUIRED>
+
+]>
+
+
+<philippines>
+	
+    <tourist_spots row = "1">
+	    <Boracay>Ideal for: Couples, families, beach bums, adventure seekers.Tourists from all over the world flock to the Philippines’ famous beach destination for its powdery white sand, crystal-clear blue water, and majestic sunset.</Boracay>
+	</tourist_spots>
+
+	<tourist_spots row = "2">
+	    <Palawan>Ideal for: Couples, beach bums, nature lovers, adventure seekers. Palawan has so much captivating natural beauty, from towering limestone cliffs and beaches with turquoise water to caves and rich marine life. No wonder travel magazines like Conde Nast¹ and CNN Travel² list Palawan as one of the world’s most beautiful islands. The most popular tourist destinations in Palawan are Puerto Princesa, El Nido, and Coron. Interestingly, El Nido won a spot in HuffPost’s recent list of the “50 Awesome Solo Travel Destinations to Visit” for its beautiful beaches and a wide array of boutique hotels and hostels offering wonderful opportunities to meet other solo travelers. Many other hidden beaches on the island are also worth exploring.</Palawan>
+	</tourist_spots>
+
+	<tourist_spots row = "3">
+	    <Bohol>Ideal for: Solo travelers, couples, families, beach bums, nature lovers. Bohol is not your typical beach destination. Aside from its white-sand beaches, Bohol has some of the unique tourist spots in the Philippines, such as the famous Chocolate Hills and Philippine Tarsier Sanctuary. Its natural and man-made wonders are also worth exploring.</Bohol>
+	</tourist_spots>
+
+	    <tourist_spots row = "4">
+	        <Banaue_Rice_Terraces>Ideal for: Backpackers, couples, nature lovers.Hundreds of years ago, indigenous people of the Ifugao tribe hand-carved thousands of rice paddies in the mountains of the Cordillera, now known as the Banaue Rice Terraces. It’s one of the most prominent tourist spots in the Philippines and is often called the “Eighth Wonder of the World”. When you visit, it’s best to hire a local guide. Go to the Banaue viewpoint for the breathtaking scenery and Instagram-worthy snaps.</Banaue_Rice_Terraces>
+	    </tourist_spots>
+
+	    <tourist_spots row = "5">
+	        <Intramuros>Ideal for: Solo travelers, couples, barkadas, history buffs. Discover and appreciate the Philippines’ rich history by touring Intramuros, one of the best places to experience the Spanish colonial period in the country. Intramuros is also a romantic setting for a date with its old-fashioned charm. After touring Intramuros, visitors may take a side trip to other equally popular places in Manila: Binondo and Escolta.</Intramuros>
+	    </tourist_spots>
+
+	    <tourist_spots row = "6">
+	        <Vigan>Ideal for: Solo travelers, couples, barkadas, history buffs, foodies. Be transported back in time when you visit Vigan City in Ilocos Sur. Be awed by the Spanish colonial period ancestral homes and structures that make Vigan a UNESCO World Heritage Site and one of CNN’s most picturesque towns in Asia.</Vigan>
+	    </tourist_spots>
+
+	    <tourist_spots row = "7">
+	        <Mt_Mayon>Ideal for: Backpackers, couples, families, adventure seekers, foodies. Mayon Volcano is one of the most popular tourist spots in the Philippines and a UNESCO World Heritage Site, thanks to its distinct, perfect cone shape. Aside from admiring the natural wonder, visitors can also experience a unique food trip and adventure in Albay where the volcano is located.</Mt_Mayon>
+	    </tourist_spots>
+
+	    <tourist_spots row = "8">
+	        <Tagaytay>Ideal for: Couples, families, foodies. Tagaytay is a popular holiday town south of Manila on the Philippine island Luzon. Known for its mild climate, it sits on a ridge above Taal Volcano Island, an active volcano surrounded by Taal Lake. Overlooking the area, People’s Park in the Sky occupies the grounds of a never-finished presidential mansion. Picnic Grove is a recreation area with trails and a zip line.</Tagaytay>
+	    </tourist_spots>
+
+	    <tourist_spots row = "9">
+	        <Mt_Pulag>Ideal for: Backpackers, adventure seekers, nature lovers. Standing at 2,926 meters above sea level, Mount Pulag is the third highest peak in the Philippines. It’s also the highest mountain in Luzon. Because of its easy trail and the magnificent sea of clouds surrounding its top, Mt. Pulag is a favorite hiking destination for first-timers</Mt_Pulag>
+	    </tourist_spots>
+
+
+	    <tourist_spots row = "10">
+	        <Puerto_Galera>Ideal for: Beach bums, backpackers, families, barkadas. Puerto Galera is a favorite beach destination every summer because of its white-sand beaches. If you’re into scuba diving and snorkeling, this is one of the tourist spots in the Philippines you shouldn’t miss</Puerto_Galera>
+	    </tourist_spots>
+
+	    <tourist_spots row = "11">
+	        <Iloilo>Ideal for: Families, history buffs, beach bums, nature lovers. Only a few hours away from Manila, Bataan is perfect for a quick weekend getaway. It’s not as touristy as the neighboring Subic Bay. People visit this province for its many historical and natural attractions..</Iloilo>
+	    </tourist_spots>
+
+	    <tourist_spots row ="12">
+	        <Bataan>Ideal for: Couples, families, foodies. Tagaytay is a popular holiday town south of Manila on the Philippine island Luzon. Known for its mild climate, it sits on a ridge above Taal Volcano Island, an active volcano surrounded by Taal Lake. Overlooking the area, People’s Park in the Sky occupies the grounds of a never-finished presidential mansion. Picnic Grove is a recreation area with trails and a zip line.</Bataan>
+	    </tourist_spots>
+
+	    <information_website>
+	    	<videos>
+	    		The Philippines, officially the Republic of the Philippines, is a Southeast Asian archipelago. It is located in the western Pacific Ocean and is made up of approximately 7,640 islands that are broadly divided into three major geographical divisions from north to south: Luzon, Visayas, and Mindanao.
+	    	</videos>
+	    </information_website>
+
+	    <information_website>
+	    	<about>
+	    		The Philippines is one of the most well-known tourist destinations in the world. The Tourist Spot Website was developed for travelers, tourists and local tourists to make it easier for them to find the beautiful places here in our country. It features gorgeous scenery as well as numerous adventures to try. We have listed the finest tourist attractions that are frequently visited by travelers. Philippines is one of the most prosperous countries in terms of location, resources, scenery, and other aspects.
+	    	</about>
+	    </information_website>
+
+	    <information_website>
+	    	<contact>
+	    		You can contact us through here. Bonifacio Global City, Taguig, Metro Manila, Email: touristspot_company.com, Tel: 020-021-0521, URL: www.touristspot_company.com
+	    	</contact>
+	    </information_website>
+
+
+
+</philippines>
